@@ -1,1 +1,4 @@
-#this is my first git project
+# My First Git Project
+
+This is my first Git project.
+Learning Git and GitHub using VS Code.
