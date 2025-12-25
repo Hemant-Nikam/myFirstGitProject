@@ -6,4 +6,3 @@ Learning Git and GitHub using VS Code.
 ## Branch Practice
 
 This change was made on the feature-readme branch.
-This commit was a mistake
